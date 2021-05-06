@@ -24,5 +24,12 @@ steps{
 echo "Beautiful"
 }
 }
+  
+    stage("uplode"){
+steps{
+echo "abhay"
+}
+}
+  
 }
 }
