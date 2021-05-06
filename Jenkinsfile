@@ -12,5 +12,17 @@ echo "hello"
 }
 
 }
+  
+  stage("QA"){
+steps{
+echo "Awesome"
+}
+}
+  
+  stage("deploy"){
+steps{
+echo "Beautiful"
+}
+}
 }
 }
