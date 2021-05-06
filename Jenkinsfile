@@ -6,6 +6,11 @@ steps{
 echo "hii buddy"
 }
 }
+  stage("test"){
+steps{
+echo "hello"
 }
 
+}
+}
 }
